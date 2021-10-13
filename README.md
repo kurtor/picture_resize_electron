@@ -1,6 +1,4 @@
-# picture_resize_electron
-
-一个图片伸缩裁剪小工具
+# 一个图片伸缩裁剪小工具
 
 <img src='https://gitee.com/kurtor/upic/raw/master/img/KEjGry20211013.png' alt='KEjGry20211013'/>
 
